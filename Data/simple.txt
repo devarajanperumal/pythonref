@@ -1,0 +1,5 @@
+Printing to a file using print
+Printing to a file using write
+line 1
+line 2
+line 3
